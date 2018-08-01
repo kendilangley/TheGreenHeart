@@ -11,6 +11,9 @@ nav ul a,
 nav .brand-logo {
   color: #444;
   font-family: Georgia, serif;
+<<<<<<< HEAD
+>>>>>>> 11d35564af1f2b3c5f2f4c1c44a5c20c7621f68d
+=======
 >>>>>>> 11d35564af1f2b3c5f2f4c1c44a5c20c7621f68d
 }
 
@@ -70,10 +73,13 @@ footer.page-footer {
   font-family: Georgia, serif;
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
   color: #fdeaeb !important;
 }
 =======
+=======
+>>>>>>> 11d35564af1f2b3c5f2f4c1c44a5c20c7621f68d
 html {
   line-height: 1.15;
   /* 1 */
@@ -84,6 +90,9 @@ html {
   font-family: Georgia, serif;
 }
 
+<<<<<<< HEAD
+>>>>>>> 11d35564af1f2b3c5f2f4c1c44a5c20c7621f68d
+=======
 >>>>>>> 11d35564af1f2b3c5f2f4c1c44a5c20c7621f68d
 
 body {
