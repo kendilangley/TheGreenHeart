@@ -1,19 +1,12 @@
 
-.parallax {
-	background-image: url ("https://media.istockphoto.com/photos/usa-globe-resting-in-a-forest-environment-concept-picture-id473454180?k=6&m=473454180&s=612x612&w=0&h=79mgVmasMc8UZjPqsF7hqE679DGy_O8-oHaGkfW6hTE=");
-	min-height: 500px;
-	background-attachment: fixed;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
-  color: #444;
-  font-family: Georgia, serif;
-}
 
 p {
   line-height: 2rem;
    font-family: Georgia, serif;
 }
+
+
+
   
  nav-wrapper {
 	  
@@ -35,6 +28,7 @@ p {
     width: 100%;
 	font-family: Georgia, serif;
   }
+
 
 @media only screen and (max-width : 992px) {
   .parallax-container .section {
@@ -62,11 +56,6 @@ p {
 }
 .icon-block .material-icons {
   font-size: inherit;
-  font-family: Georgia, serif;
-}
-
-footer.page-footer {
-  margin: 0;
   font-family: Georgia, serif;
 }
 
