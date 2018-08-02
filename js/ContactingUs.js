@@ -1,5 +1,10 @@
 $(document).ready(function() {  
 
+
+
+<iframe class='gfm-media-widget' image='1' coinfo='1' width='100%' height='100%' frameborder='0' id='eotowakanda'></iframe><script src='//funds.gofundme.com/js/5.0/media-widget.js'></script>
+
+//-->
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
 
     <!-- Identify your business so that you can collect the payments. -->
@@ -22,5 +27,8 @@ $(document).ready(function() {
     src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" >
 
 </form>
+
+
+
 
 });
