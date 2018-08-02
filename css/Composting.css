@@ -1,3 +1,15 @@
+
+.sidenav-trigger {
+  color: green;
+  font-family: Georgia, serif;
+}
+
+.nav-wrapper {
+    background-color: DodgerBlue !important;
+    font-size: 14px;
+    font-weight: bold;
+  }
+
 nav ul a,
 nav .brand-logo {
   color: #444;
@@ -9,9 +21,6 @@ p {
    font-family: Georgia, serif;
 }
 
-.sidenav-trigger {
-  color: #26a69a;
-  font-family: Georgia, serif;
 }
 
 .parallax-container {

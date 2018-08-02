@@ -1,21 +1,23 @@
 
 
+.sidenav-trigger {
+  color: green;
+  font-family: Georgia, serif;
+}
+
+.nav-wrapper {
+    background-color: DodgerBlue !important;
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  
 p {
   line-height: 2rem;
    font-family: Georgia, serif;
 }
 
 
-
-  
- nav-wrapper {
-	  
-	  color: lawngreen;
- }
-.sidenav-trigger {
-  color: green;
-  font-family: Georgia, serif;
-}
 
 .parallax-container {
   min-height: 380px;

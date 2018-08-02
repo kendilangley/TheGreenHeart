@@ -3,6 +3,12 @@ body{
 }
 
 .sidenav-trigger {
-  color: #26a69a;
+  color: green;
   font-family: Georgia, serif;
 }
+
+.nav-wrapper {
+    background-color: DodgerBlue !important;
+    font-size: 14px;
+    font-weight: bold;
+  }
